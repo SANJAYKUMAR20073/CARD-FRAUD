@@ -54,4 +54,4 @@ Classifier,adaBoost,GradientBoost were used to detect the fraud in credit
 card system. accuracy and precision are used to evaluate the performance 
 for the proposed system.
 By comparing all the methods,we found that Out of these algorithms ,the 
-Random Forest Algorithm has the highest accuracy
+Random Forest Algorithm has the highest accuracy.
