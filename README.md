@@ -18,8 +18,8 @@ fraudulent transactions.Our aim is to identify all fraudulent
 transactions while reducing false positives for fraud with the aid 
 of growing the accuracy in real time.
 
-## Keywords:fraudulent activities, machinelearning,supervisedlearning, 
-unsupervisedlearning,accuracy , precision,confusion matrix .
+## Keywords:
+fraudulent activities, machinelearning, supervisedlearning, unsupervisedlearning, accuracy , precision, confusion matrix .
 
 ## Introduction:
 Machine Learning is widely used to solve the problems that occur in 
